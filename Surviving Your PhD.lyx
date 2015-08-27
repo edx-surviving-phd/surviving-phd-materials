@@ -95,7 +95,7 @@
 \begin_body
 
 \begin_layout Title
-Surviving Your PhD
+edX: Surviving Your PhD
 \begin_inset Foot
 status open
 
@@ -117,10 +117,6 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Part
-Module 1
-\end_layout
-
 \begin_layout Section
 Setting the Scene
 \end_layout
@@ -130,7 +126,7 @@ The emotional life of research students
 \end_layout
 
 \begin_layout Subsubsection
-We argued a lot about what this course should be called.
+We argued a lot about what this course should be called
 \end_layout
 
 \begin_layout Standard
@@ -236,7 +232,7 @@ Research students are typically high achievers who are under a lot of pressure
 \end_layout
 
 \begin_layout Subsubsection*
-Pluralistic ignorance persists if these problems are not openly discussed.
+Pluralistic ignorance persists if these problems are not openly discussed
 \end_layout
 
 \begin_layout Standard
@@ -279,13 +275,13 @@ Confidence is a good quality for a researcher to have.
 \end_layout
 
 \begin_layout Standard
-In this course we have tried to connect the emotions to real life examples
+In this course, we have tried to connect the emotions to real life examples
  from research degree experience settings so we can think about why these
  responses happen and what effects they have on us.
 \end_layout
 
 \begin_layout Standard
-But first, lets take a deeper look at the emotional life of research students.
+But first, let's take a deeper look at the emotional life of research students.
 \end_layout
 
 \begin_layout Subsubsection
@@ -303,26 +299,29 @@ Some time ago the Thesis Whisperer blog did a post called "The Top 5 PhD
 
 \begin_layout Enumerate
 Elation when you realise you know more than your supervisor about your topic
- and you feel brave enough to argue about it 
+ and you feel brave enough to argue about it.
+ 
 \end_layout
 
 \begin_layout Enumerate
 Fear of being ‘found out’ as fraud, not really knowing enough or being smart
- enough to be a PhD student 
+ enough to be a PhD student.
 \end_layout
 
 \begin_layout Enumerate
-Unexpected admiration of your own writing 
+Unexpected admiration of your own writing.
 \end_layout
 
 \begin_layout Enumerate
 The “I’m a genius! Why hasn’t anybody thought to do that before?” moment
- before people point out the obscure paper you’ve not read 
+ before people point out the obscure paper you’ve not read.
+ 
 \end_layout
 
 \begin_layout Enumerate
 Misplaced smugness after photocopying or downloading loads of stuff but
- not actually reading it 
+ not actually reading it.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -396,8 +395,7 @@ Campus facilities
 \end_layout
 
 \begin_layout Itemize
-Job market opportunities.
- 
+Job market opportunities
 \end_layout
 
 \begin_layout Standard
@@ -500,8 +498,11 @@ Poisonous, competitive research environment
 \end_layout
 
 \begin_layout Itemize
-Being made to do non-thesis work Being asked to do extra work to make the
- project ‘submittable’ 
+Being made to do non-thesis work 
+\end_layout
+
+\begin_layout Itemize
+Being asked to do extra work to make the project ‘submittable’ 
 \end_layout
 
 \begin_layout Itemize
@@ -803,8 +804,8 @@ target "http://www.amazon.com/Leaving-Ivory-Tower-Consequences-Departure/dp/0742
  Based on hard evidence drawn from a survey of 816 completers and noncompleters
  and on interviews with noncompleters, high- and low-Ph.D productive faculty
  and Directors of Graduate study, this book locates the root cause of attrition
- in the social structure and cultural organization of graduate education”.
- (Text from Amazon.com) 
+ in the social structure and cultural organization of graduate education”
+ (Text from Amazon.com).
 \end_layout
 
 \begin_layout Paragraph
@@ -891,7 +892,7 @@ The references in the list below appear in paywalled journals - you will
  need a university subscription to read them.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Boud, D., & Costley, C.
  (2007).
  From project supervision to advising: New conceptions of the practice.
@@ -899,7 +900,7 @@ Boud, D., & Costley, C.
  119-130.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Gatfield, T.
  (2005).
  An investigation into PhD supervisory management styles: Development of
@@ -908,7 +909,7 @@ Gatfield, T.
  311-325.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Grant, B.
  (2000).
  Pedagogical issues in research education.
@@ -916,19 +917,19 @@ Grant, B.
  Kiley & G.
  Mullins (Eds.), Quality in postgraduate research: Making ends meet.
  Adelaide: Advisory Centre for Univesity Education.
- 31 - 34 (PDF)
+ 31 - 34 (PDF).
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Johnson, L., Lee, A., & Green, B.
  (2000).
  The PhD and the autonomous self: gender, rationality and postgraduate pedagogy.
  Studies in Higher Education, Volume 25(2).
  135-147.
- (PDF)
+ (PDF).
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Lee, A., Dennis, C., & Campbell, P.
  (2007).
  Nature's guide for mentors.
@@ -936,7 +937,7 @@ Lee, A., Dennis, C., & Campbell, P.
  791-797.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Hochschild, A.
  R.
  (2003).
@@ -944,7 +945,7 @@ Hochschild, A.
  Berkeley: University of California Press.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 Salisbury, J.
  (2014).
  Emotional labour and the ethics of care in further education teaching.
